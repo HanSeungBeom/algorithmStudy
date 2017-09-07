@@ -1,10 +1,11 @@
 package algo.baekjoonProblem;
 import java.util.Scanner;
 
+//푼 날짜:17.09.06
 //백준 2935번
 //분류 : 큰수 처리, 예외경우 생각
 // * 일때는 예외가 없었는데, +일때는 같은자리수일때 2가 된다는 경우를 생각하는게 어려웠다.
-public class p2935 {
+public class _170906_p2935 {
 
 
 	public static void main(String[] args) {

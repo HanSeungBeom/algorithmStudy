@@ -1,11 +1,12 @@
 package algo.baekjoonProblem;
 import java.util.Scanner;
 
+//푼 날짜:17.09.05
 //백준 2869번
 //분류 : 수학, 이진탐색
 //나눗셈 개념과, 이진탐색할때 upper_bound 조건이 까다로웠다.
 
-public class p2869 {
+public class _170905_p2869 {
 
 	static int A,B,V;
 
